@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "阿明小站",
+    "description": "",
+    "home_page_url": "https://github.com/soul0080/MyWeb",
+    "feed_url": "https://github.com/soul0080/MyWeb/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "肥仔阿明"
+    },
+    "items": [
+    ]
+}
